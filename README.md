@@ -1,1 +1,1 @@
-Gatling report nuxeo with correct vwrsion compatibility
+Gatling report nuxeo with correct version compatibility
